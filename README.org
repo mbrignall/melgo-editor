@@ -11,3 +11,12 @@ The tutorial is extremely well written, incremental and takes the time to explai
 [[https://viewsourcecode.org/snaptoken/kilo/index.html][Kilo - Build Your Own Text Editor]]
 
 For now this is all I have.
+
+* Want to try?
+
+Simply cd to the root directory:
+
+#+begin_src 
+  make
+  ./melgo
+#+end_src
