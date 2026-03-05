@@ -1,0 +1,13 @@
+#+title: Melgo - A text editor
+#+author: mbrignall
+#+date: 2026-03-05
+
+* A text editor
+
+Yes! I am following the tutorial below and wanted to record my progress in this repo. There will be some deviations from the tutorial, at the moment limited to the name and some minor cosmetic differences based on personal taste.
+
+The tutorial is extremely well written, incremental and takes the time to explain why.
+
+[[https://viewsourcecode.org/snaptoken/kilo/index.html][Kilo - Build Your Own Text Editor]]
+
+For now this is all I have.

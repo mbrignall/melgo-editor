@@ -1,0 +1,24 @@
+# project specific folders
+/build/
+/src/*.o
+.direnv
+.envrc
+flake.lock
+
+# Compiled object files
+*.o
+
+# Executable files
+melgo
+
+# Debugging files
+*.dSYM
+*.log
+
+# Temporary files
+*~
+*.tmp
+*.bak
+
+# Backup files
+*.swp
